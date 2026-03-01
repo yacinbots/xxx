@@ -1,4 +1,4 @@
-name: VPS
+name: VPSS
 on:
   workflow_dispatch:
 jobs:
